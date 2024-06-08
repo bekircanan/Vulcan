@@ -8,6 +8,9 @@ body{
   text-align: center;
   background: #efefef;
 }
+a{
+  color:#fa6400;
+}
 main {
   display: grid;
   grid-template-columns: 5% 2fr 5%;
